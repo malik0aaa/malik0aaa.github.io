@@ -1,8 +1,11 @@
 Hi, I'm Malika Muskan
-Computer Science student specializing in Data Analytics at Sheridan College, originally from Saudi Arabia and now building my career in Canada.
+Computer Science student specializing in Data Analytics at Sheridan College. 
+
 I enjoy turning data into decisions and building systems that actually solve problems — from AI-powered wellness apps to analytics pipelines.
+
 🔗 Portfolio
 malik0aaa.github.io
+
 🛠 Tech
 ASP.NET Core · C# · Python · SQL · Power BI · .NET MAUI · EF Core
 📌 Featured Projects
